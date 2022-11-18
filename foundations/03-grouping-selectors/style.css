@@ -1,0 +1,14 @@
+.first-element {
+    background-color: hsl(0, 100%, 0%);
+    color: white
+}
+
+.second-element {
+    background-color: hsl(59, 100%, 50%)
+}
+
+.first-element,
+.second-element {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif"
+}
